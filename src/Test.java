@@ -8,6 +8,8 @@ public class Test {
         uf.union(2, 3);
         uf.union(2, 9);
         uf.print();
+        uf.find(2);
+        uf.print();
         System.out.println(uf.connected(3, 10));
     }
 }

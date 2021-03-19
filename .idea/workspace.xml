@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e8a670-4c38-4764-b13a-5c8c5457078f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/UnionFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UnionFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +27,6 @@
   <component name="ProjectId" id="1p0rsW2Fe3KCx3fSjMXeTByI3M3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -33,7 +35,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.CustomSet">
+    <configuration name="CustomSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomSet" />
+      <module name="DataStructures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="DataStructures" />
@@ -43,10 +52,12 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomSet" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -59,27 +70,5 @@
       <updated>1614331055502</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="617" y="215" key="#Project_Structure" timestamp="1614331070498">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="617" y="215" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1614331070498" />
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1614332307482">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1614332307482" />
-    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1614332307482">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1614332307482" />
-    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1614332307482">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1614332307482" />
-    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1614332307482">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="2005" height="305" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1614332307482" />
   </component>
 </project>
