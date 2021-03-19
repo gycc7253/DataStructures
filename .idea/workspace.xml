@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e8a670-4c38-4764-b13a-5c8c5457078f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CustomSetGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomMapGeneric.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +31,19 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.CustomSetGeneric">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CustomMapGeneric">
+    <configuration name="CustomMapGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomMapGeneric" />
+      <module name="DataStructures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CustomSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CustomSet" />
       <module name="DataStructures" />
@@ -55,6 +67,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomMapGeneric" />
         <item itemvalue="Application.CustomSetGeneric" />
         <item itemvalue="Application.CustomSet" />
         <item itemvalue="Application.Test" />
