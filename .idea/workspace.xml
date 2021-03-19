@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58e8a670-4c38-4764-b13a-5c8c5457078f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CustomSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CustomSetGeneric.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DataStructures/UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DataStructures/UnionFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UnionFind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +31,16 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.CustomSet">
+  <component name="RunManager" selected="Application.CustomSetGeneric">
     <configuration name="CustomSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CustomSet" />
+      <module name="DataStructures" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomSetGeneric" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CustomSetGeneric" />
       <module name="DataStructures" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -52,6 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CustomSetGeneric" />
         <item itemvalue="Application.CustomSet" />
         <item itemvalue="Application.Test" />
       </list>
